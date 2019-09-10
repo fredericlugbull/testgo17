@@ -16,5 +16,4 @@
 //= require_tree .
 
 //= require vendor
-//= require app
 //= require vendor.min
