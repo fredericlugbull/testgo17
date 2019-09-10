@@ -14,3 +14,7 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+//= require vendor
+//= require app
+//= require vendor.min
