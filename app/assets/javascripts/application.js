@@ -15,3 +15,8 @@
 //= require turbolinks
 //= require_tree .
 
+//= require vendor
+//= require vendor.min
+//= require cable
+//= require app
+
